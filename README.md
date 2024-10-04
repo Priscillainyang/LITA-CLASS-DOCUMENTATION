@@ -11,8 +11,8 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 ## Tools Used
 - Microsoft Excel
     1. For Data Cleaning
-       1. Simple Arithmetic [view] (https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
-       2. Removing Excess Spaces and Formatting of Text [Check] (https://docs.google.com/spreadsheets/d/1vDIJYzXy4EPV8nN9usfVoX8brf01SOYZ/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
+       1. Simple Arithmetic [view](https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
+       2. Removing Excess Spaces and Formatting of Text [Check](https://docs.google.com/spreadsheets/d/1vDIJYzXy4EPV8nN9usfVoX8brf01SOYZ/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
        3. Using Vlookup
     2. For Analysis
         - Pivot Table for Report Summary
