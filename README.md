@@ -9,7 +9,10 @@ The primary goal of this project is to clean and structure a raw data set using 
 The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, data was gotten from site such as kaggle
 
 ## Tools Used
-- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- Microsoft Excel
+    1. For Data Cleaning
+    2. For Analysis
+    3. Data Visualization
 - SQL - Structured Query Language for Quering data and Data manipulation
 - PowerBi - For Data Visualization and Dashboard building
 - Github - For Portolio Building
