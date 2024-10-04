@@ -14,8 +14,10 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
        1. Simple Arithmetic view
        2. Removing Excess Spaces and Formatting of Text
        3. Using Vlookup
-    3. For Analysis
-    4. Data Visualization
+    2. For Analysis
+        - Pivot Table for Report Summary
+    3. Data Visualization
+        - Different Chart in Excel For Visualization
 - SQL - Structured Query Language for Quering data and Data manipulation
 - PowerBi - For Data Visualization and Dashboard building
 - Github - For Portolio Building
