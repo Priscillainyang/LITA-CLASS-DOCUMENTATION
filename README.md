@@ -1,5 +1,7 @@
 # LITA-Capstone-project
-## LITA offered me an admission on Data Analysis. We started with Excel, Power-BI and SQL. My applied practicals are documented here.
+
+## My learning so far with LITA in Data Analysis. We started with Excel, SQL and Power BI, My applied practicals and projects are documented here.
+
 ## PROJECT TITLE: LITA Capstone projects based on Sales and Customer Dataset.
 Data Cleaning, Analysis, and Querying using Excel, SQL and Power BI.
 
