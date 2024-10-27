@@ -10,7 +10,7 @@ The primary goal of this project is to clean and structure a raw data set using 
 Our tutors gave the dataset to us, in persons of Mr Mushin and Mr Femi.
 
 **Tools Used**
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
     1. For Data Cleaning
        I. Simple Arithmetic [view](https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
        II. Removing Excess Spaces and Formatting of Text [Check](https://docs.google.com/spreadsheets/d/1vDIJYzXy4EPV8nN9usfVoX8brf01SOYZ/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
