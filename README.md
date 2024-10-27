@@ -25,5 +25,5 @@ Our tutors gave the dataset to us, in persons of Mr Mushin and Mr Femi.
           
 - SQL - Structured Query Language for Quering data and Data manipulation
 - PowerBi - For Data Visualization and Dashboard building
-- Github - For Portolio Building
+- Github - For Portfolio Building
 
