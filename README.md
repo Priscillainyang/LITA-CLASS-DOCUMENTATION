@@ -21,8 +21,8 @@ Our tutors gave the dataset to us, in persons of Mr Mushin and Mr Femi.
         - Pivot Table for Report Summary [view](https://docs.google.com/spreadsheets/d/11YWse7TfaIonCN-jxyDML_atE0AHyanr/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
     3. Data Visualization
         - Different Chart in Excel For Visualization [Fig1](https://drive.google.com/file/d/1zj_lgAK55WBDnwXMnfj5sn0QBhs3jPLZ/view?usp=sharing)
-        - [Fig2](https://drive.google.com/file/d/132b8_71HT1FJfYXnUE3cSNvcTDdHhq7X/view?usp=sharing)
-        - [Fig3](https://drive.google.com/file/d/1SESlg7aWI1NqL2QiaWc8mD2wt6D3wnco/view?usp=sharing
+        - [Fig2] (https://drive.google.com/file/d/132b8_71HT1FJfYXnUE3cSNvcTDdHhq7X/view?usp=sharing)
+        - [Fig3] (https://drive.google.com/file/d/1SESlg7aWI1NqL2QiaWc8mD2wt6D3wnco/view?usp=sharing
         - Power BI
         - for summarization
               
