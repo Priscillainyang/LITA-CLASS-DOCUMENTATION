@@ -2,29 +2,50 @@
 
 ## My learning so far with LITA in Data Analysis. We started with Excel, SQL and Power BI, My applied practicals and projects are documented here.
 
-## PROJECT TITLE: LITA Capstone projects based on Sales and Customer Dataset.
+## PROJECT TITLE: LITA Capstone Projects Based on Sales Data and Customer Dataset.
 Data Cleaning, Analysis, and Querying using Excel, SQL and Power BI.
 
-### **Project Overview**
+### Project Overview
 The primary goal of this project is to clean and structure a raw data set using Excel for initial organization, perform data summarization and insights using pivot tables, and conduct basic querying for analysis using SQL and Power BI for summary. The cleaned dataset, summarized in Excel using some Excel functions including conditional functions; and pivot tables and further analyzed with SQL queries and Power BI, provides insights into trends, patterns, and outliers. The project delivers actionable recommendations based on the analysis to assist in data-driven decision-making.
 
-### **Data Source**
-Our tutors gave the dataset to us, in persons of Mr Mushin and Mr Femi.
+### Data Source
+The primary Data used here are Data Sales.csv and Customer Database, which were given to us by our tutors, Mr Mushin and Mr Femi.
 
 **Tools Used**
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-    1. For Data Cleaning
-       I. Simple Arithmetic [view](https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
-       II. Removing Excess Spaces and Formatting of Text [Check](https://docs.google.com/spreadsheets/d/1vDIJYzXy4EPV8nN9usfVoX8brf01SOYZ/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
-       III. Using Vlookup [Click](https://docs.google.com/spreadsheets/d/1Icb4UFAtkSCSvPu08xQmbyR_qrvcKX7E/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
-    2. For Analysis
-        - Pivot Table for Report Summary [view](https://docs.google.com/spreadsheets/d/11YWse7TfaIonCN-jxyDML_atE0AHyanr/edit?usp=sharing&ouid=115373249553552202897&rtpof=true&sd=true)
-    3. Data Visualization - Power BI
-        - Different Chart in Excel For Visualization [Fig1](https://drive.google.com/file/d/1zj_lgAK55WBDnwXMnfj5sn0QBhs3jPLZ/view?usp=sharing)
-        - [Fig2] (https://drive.google.com/file/d/132b8_71HT1FJfYXnUE3cSNvcTDdHhq7X/view?usp=sharing)
-        - [Fig3] (https://drive.google.com/file/d/1SESlg7aWI1NqL2QiaWc8mD2wt6D3wnco/view?usp=sharing
-              
-- SQL - Structured Query Language for Quering data and Data manipulation
-- PowerBi - For Data Visualization and Dashboard building
-- Github - For Portfolio Building
+      1. For Data Cleaning
+      2. For Data Analysis
+      3. For Data Visualization
+      4. Power BI
+        
+- SQL - Structured Query Language for Quering data.
+- PowerBi - For Data Visualization Data Analysis and Reporting.
+- Github - For Portfolio Building.
+
+### Data cleansing and preparations
+The initial phase of the Data cleansing and Preparation, the following actions were performed:
+       
+        - Data loading and inspections.
+        - Handling missing variables.
+        - Data Cleaning and formatting.
+        
+### Exploratory Data Analysis 
+Exploratory Data Analysis is a crucial step in the data analysis process, aimed at understanding a dataset's characteristics and patterns. It answers some questions about the data such as:
+
+        - Total sales by product, region, and month.
+        - Which products are top sellers?
+        - Subscription patterns.
+        - Subscription trends.
+
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX Expressions used during the Analysis
+
+```SQL
+SELECT * FROM LITA Sales project
+WHERE CONDITION = TRUE
+```
+
+### Data Visualization 
 
